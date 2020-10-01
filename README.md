@@ -1,7 +1,7 @@
 Deprecation Notice
 ------------------
 
-As of February 2018, the Wine Staging project has been discontinued by the original
+As from February 2018, the Wine Staging project has been discontinued by the original
 maintainers. Alistair Leslie-Hughes has volunteered to continue the project
 at his own [GitHub repository](https://github.com/wine-staging/wine-staging).
 
@@ -77,7 +77,7 @@ should look similar to this:
 ```
 
 Before you proceed with the compilation, please make sure that you installed all
-additional build dependencies required for the Wine Staging features you are
+additional build dependencies required for the Wine Staging features, you are
 interested in (check output of `./configure`). More information about building
 Wine Staging, optional build dependencies, and hints for packagers are collected
 in our [Wiki](https://github.com/wine-compholio/wine-staging/wiki/Packaging).
